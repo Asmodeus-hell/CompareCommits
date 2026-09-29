@@ -1,2 +1,3 @@
 Hello Git 
-This is my First Version.
+This is my second Version.
+git helps track changes.
